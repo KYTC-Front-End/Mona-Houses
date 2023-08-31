@@ -1,5 +1,5 @@
 
-# [Figma](https://www.figma.com/file/8VtKYY5VwcbLpwGJThc61h/House-Hunting?type=design&node-id=0-1&mode=design&t=biSn2tYQHICOE6dh-0)
+
 # House Hunting App :house:
 House-Hunting App that facilitates to access and rent available homes .
 # Live demo :tv:
@@ -17,7 +17,7 @@ Build a house-hunting application that facilitates users to rent houses, most of
 # User Journey :aeroplane:
 As a user, I can see all available houses that able to rent, search to find houses  inside my profile I have my information and control panel for my own houses available to rent.
 # Prototype :art:
-<https://www.figma.com/file/JHYy8SZWxSBBkWHa2KQlMG/House-Hunting?type=design&node-id=0-1&mode=design&t=VYnkmG5CehJ2TlGd-0>
+ [Figma](https://www.figma.com/file/8VtKYY5VwcbLpwGJThc61h/House-Hunting?type=design&node-id=0-1&mode=design&t=biSn2tYQHICOE6dh-0)
 # Technologies :computer:
 **UX/UI Technology :**
 - Figma design tool .
